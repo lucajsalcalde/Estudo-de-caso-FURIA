@@ -1,5 +1,5 @@
-# Furia-estudo-de-caso
-Após a conclusão do curso Google Data Analytics desenvolvi um estudo de caso, onde faço uma análise do time Furia na modalidade de CSGO.
+# Gráficos  Tableau -  Estudo de caso Furia CSGO
+Além da linguagem R, os gráficos do estudo de caso foram desenvolvidos na ferramenta de visualiza de dadad Tableau.   
 
 [
 ![Resultados2022x2020](https://user-images.githubusercontent.com/44827249/162538000-5697a937-f7c1-445d-98e7-71dbdf59af09.png)
