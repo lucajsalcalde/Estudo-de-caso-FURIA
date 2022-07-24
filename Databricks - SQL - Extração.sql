@@ -1,5 +1,5 @@
 -- Databricks notebook source
---Visualizando tabela
+--Visualizando a tabela criada com Python
 select *
 from tb_furia
 
