@@ -6,5 +6,5 @@ Linguagens utilizadas:
 
 - R
 - Python
-
+- SQL
 
