@@ -8,3 +8,11 @@ Linguagens utilizadas:
 - Python
 - SQL
 
+Desenvolvimento: 
+https://github.com/lucajsalcalde/Estudo-de-caso-FURIA/blob/main/R-estudo-de-caso-furia-csgo-2022-.ipynb
+
+Extração dos dados: 
+https://github.com/lucajsalcalde/Estudo-de-caso-FURIA/blob/main/Databricks%20-%20Python%20-%20Extra%C3%A7%C3%A3o%20de%20Dados.ipynb
+
+Visualização Power BI:
+https://github.com/lucajsalcalde/Power-BI-FURIA/blob/main/Furia_DashB.pdf
